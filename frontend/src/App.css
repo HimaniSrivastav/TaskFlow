@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+@keyframes float {
+  0%, 100% {
+    transform: translate(0px, 0px) rotate(0deg);
+  }
+  25% {
+    transform: translate(50px, -60px) rotate(45deg);
+  }
+  50% {
+    transform: translate(-40px, 30px) rotate(90deg);
+  }
+  75% {
+    transform: translate(30px, -40px) rotate(135deg);
+  }
+}
