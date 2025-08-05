@@ -25,7 +25,7 @@ import Sidebar from './component/User/Sidebar';
 // import TaskDashboard from './component/User/DashboardMain/TaskDashboard';
 
 // User management components
-import UserManagement from './component/User/UserArea/UserMAnagement';
+import UserManagement from './component/User/UserArea/UserManagement';
 
 // Task area components
 // import TaskTable from './component/User/TaskArea/TaskTable';
